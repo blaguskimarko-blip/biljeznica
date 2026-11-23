@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "naslov": "Napisati izvjestaj",
+    "gotovo": false
+  },
+  {
+    "id": 2,
+    "naslov": "E-pošta",
+    "gotovo": true
+  }
+]
